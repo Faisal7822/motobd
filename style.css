@@ -1,0 +1,124 @@
+* {
+  box-sizing: border-box;
+  padding:0;
+  margin:0;
+}
+
+/* top bar */
+.topbar{
+width:100%;
+height:100px;
+background:#FF8C00;
+color:	#000000;
+
+
+}
+
+.logo img{
+color:	#000000;
+height:100px;
+width:auto;
+}
+
+.manu{
+width:70%;
+float:right;
+text-align:right;
+}
+
+.manu ul{
+	margin-right:100px;
+}
+
+.manu ul li {
+display:inline-block;
+list-style:none;
+padding:50px 10px;
+}
+
+/* banner design*/
+
+.banner{
+background: url('pic3.png') no-repeat;
+width:100%;
+height:auto;
+color:#0f0301;
+text-align:center;
+padding:100px 0;
+margin-top:40px;
+
+}
+
+.b-header{
+width:50%;
+margin:auto;
+font-size:30px;
+margin-bottom:50px;
+
+	
+}
+
+.btn{
+background:#ff8000;
+color:#0000ff;
+text-decoration:none;
+font-size:20px;
+padding:20px 30px;
+border-radius:10px;
+}
+
+/* service section */
+
+.services{
+width:100%;
+margin:auto;
+display:float;
+text-align:center;
+padding:100px 0;
+
+	
+	
+}
+
+.service{
+width:30%;
+display:inline-block;
+background:#f1f1f1;
+padding:40px;
+border-radius:20px;	
+}
+
+.service h2{
+font-size:30px;
+line-height:45px	
+}
+
+.service p{
+padding-top:20px;
+font-size:20px;
+}
+
+.footer{	
+width:100%;
+text-align:center;
+padding:20px 0;
+background:#FF8C00;
+color:#000000;	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
